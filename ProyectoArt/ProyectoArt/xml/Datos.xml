@@ -7,7 +7,7 @@
 		<Opcion Url="/Default.aspx?Id=3" Texto="Conocenos" Id="3"></Opcion>
 	</Opciones>
 	<Trabajos>
-		<Tipos nombre="Fustes">
+		<Tipos Nombre="Fustes">
 			<Trabajo Nombre="FusteNormal">
 				<Descripcion>Fuste forrado en acero inoxidable escarbado, modelo clásico, sólo grecas sin figuras, se puede hacer en cualquier medida, aunque la clásica y más común es 15 pulgadas.</Descripcion>
 				<Precio>4,500</Precio>
@@ -82,6 +82,7 @@
 		<NombreEmpresa>Taller Sombrereo Hermanos</NombreEmpresa>
 		<Descripcion>Bienvenidos en este taller encontrara una diversa coleccion de artesanias, fustes, hevillas, herrajes, espuelas, frenos, etc.</Descripcion>
 		<Direccion>C. 6 Oriente N° 402 Barrio San Antonio Amozoc Puebla C.P 72980</Direccion>
+		<Correo>tallersombrerero@gmail.com</Correo>
 		<Telefono>22-17-40-15-87</Telefono>
 		<Imagen>----</Imagen>
 	</NuestrosDatos>
