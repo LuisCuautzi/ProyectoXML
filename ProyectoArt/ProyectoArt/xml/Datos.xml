@@ -11,79 +11,122 @@
 			<Trabajo Nombre="FusteNormal">
 				<Descripcion>Fuste forrado en acero inoxidable escarbado, modelo clásico, sólo grecas sin figuras, se puede hacer en cualquier medida, aunque la clásica y más común es 15 pulgadas.</Descripcion>
 				<Precio>4,500</Precio>
-				<Imagen>----</Imagen>
+				<Imagen>img/F2.jpg</Imagen>
 			</Trabajo>
 			<Trabajo Nombre="FusteLaton">
 				<Descripcion>Fuste forrado en lamina de laton</Descripcion>
 				<Precio>10,000</Precio>
-				<Imagen>----</Imagen>
+				<Imagen>img/FNoel.jpg</Imagen>
 			</Trabajo>
 			<Trabajo Nombre="FusteCalado">
 				<Descripcion>Fuste 15 1/2 calado fino hecho de material de primera calidad y acero inoxidable</Descripcion>
 				<Precio>8,000</Precio>
-				<Imagen>----</Imagen>
+				<Imagen>img/FCalado.jpg</Imagen>
 			</Trabajo>
 			<Trabajo Nombre="FusteDorado">
 				<Descripcion>Fuste en acero inoxidable, luciendo un color dorado</Descripcion>
 				<Precio>8,500</Precio>
-				<Imagen>----</Imagen>
+				<Imagen>img/FDorado.jpg</Imagen>
+			</Trabajo>
+			<Trabajo Nombre="FusteNegro">
+				<Descripcion>Fuste en acero inoxidable, luciendo un color negro</Descripcion>
+				<Precio>10,000</Precio>
+				<Imagen>img/FNegro.jpg</Imagen>
 			</Trabajo>
 		</Tipos>
-		<Tipos nombre="Hevillas">
+		<Tipos Nombre="Hevillas">
 			<Trabajo Nombre="HevillaNormal">
 				<Descripcion>Heviilla hecha en acero inoxidable, diseño normal</Descripcion>
 				<Precio>500</Precio>
-				<Imagen>----</Imagen>
+				<Imagen>img/hevilla/HNormal.jpg</Imagen>
 			</Trabajo>
 			<Trabajo Nombre="HevillaCalada">
 				<Descripcion>Hevilla calada en acero inoxidable</Descripcion>
 				<Precio>1,000</Precio>
-				<Imagen>----</Imagen>
+				<Imagen>/img/hevilla/HCalada.jpg</Imagen>
 			</Trabajo>
 			<Trabajo Nombre="HevillaOvalada">
 				<Descripcion>Hevilla ovalada hecha en acero inoxidable</Descripcion>
 				<Precio>700</Precio>
-				<Imagen>----</Imagen>
+				<Imagen>img/hevilla/HOvalada.jpg</Imagen>
 			</Trabajo>
 		</Tipos>
 		<Tipos nombre="Frenos">
 			<Trabajo Nombre="FrenoNormal">
 				<Descripcion>Freno hecho en acero inoxiable con bocado en cobre</Descripcion>
 				<Precio>1,500</Precio>
-				<Imagen>----</Imagen>
+				<Imagen>img/frenos/Freno.jpg</Imagen>
 			</Trabajo>
 		</Tipos>
 		<Tipos nombre="Espuelas">
 			<Trabajo Nombre="EspuelasNormales">
 				<Descripcion>Espuela hechas en acero inoxidable</Descripcion>
 				<Precio>1,200</Precio>
-				<Imagen>----</Imagen>
+				<Imagen>img/espuela/ENormal.jpg</Imagen>
 			</Trabajo>
 			<Trabajo Nombre="EspuelasTexanas">
 				<Descripcion>Espuelas texanas hechas en acero inoxidable</Descripcion>
 				<Precio>2,000</Precio>
-				<Imagen>----</Imagen>
+				<Imagen>img/espuela/ETexana.jpg</Imagen>
 			</Trabajo>
 			<Trabajo Nombre="EspuelasAmericana">
 				<Descripcion>Espuela diseño americana</Descripcion>
 				<Precio>2,000</Precio>
-				<Imagen>----</Imagen>
+				<Imagen>img/espuela/EAme.jpg</Imagen>
 			</Trabajo>
 		</Tipos>
 		<Tipos nombre="Herrajes">
 			<Trabajo Nombre="HerrajeNormal">
 				<Descripcion>Herraje hecha en acero inoxidable</Descripcion>
 				<Precio>1,500</Precio>
-				<Imagen>----</Imagen>
+				<Imagen>img/EArt.jpg</Imagen>
 			</Trabajo>
 		</Tipos>
 	</Trabajos>
 	<NuestrosDatos>
 		<NombreEmpresa>Taller Sombrereo Hermanos</NombreEmpresa>
-		<Descripcion>Bienvenidos en este taller encontrara una diversa coleccion de artesanias, fustes, hevillas, herrajes, espuelas, frenos, etc.</Descripcion>
+		<Descripcion>Bienvenidos A Sombrerero H.</Descripcion>
 		<Direccion>C. 6 Oriente N° 402 Barrio San Antonio Amozoc Puebla C.P 72980</Direccion>
 		<Correo>tallersombrerero@gmail.com</Correo>
 		<Telefono>22-17-40-15-87</Telefono>
-		<Imagen>----</Imagen>
+		<Imagen>img/logotaller.jpeg</Imagen>
 	</NuestrosDatos>
+	<Equipo>
+		<Persona Nombre ="T1">
+			<Nombre>Gerardo</Nombre>
+			<Correo>gera@gmail.com</Correo>
+			<Cel>22-52-58-96-85</Cel>
+			<Imagen>img/avatar1.png</Imagen>
+		</Persona>
+		<Persona Nombre ="T2">
+			<Nombre>Hector</Nombre>
+			<Correo>hector@gmail.com</Correo>
+			<Cel>22-88-99-55-36</Cel>
+			<Imagen>img/avatar2.svg</Imagen>
+		</Persona>
+		<Persona Nombre ="T3">
+			<Nombre>Miguel</Nombre>
+			<Correo>miguel@gmail.com</Correo>
+			<Cel>25-36-89-96-85</Cel>
+			<Imagen>img/avatar3.svg</Imagen>
+		</Persona>
+		<Persona Nombre ="T4">
+			<Nombre>Santiago</Nombre>
+			<Correo>san@gmail.com</Correo>
+			<Cel>25-36-25-25-99</Cel>
+			<Imagen>img/avatar4.jpg</Imagen>
+		</Persona>
+		<Persona Nombre ="T5">
+			<Nombre>Luis Gerardo</Nombre>
+			<Correo>luis@gmail.com</Correo>
+			<Cel>22-17-40-15-87</Cel>
+			<Imagen>img/avatar5.svg</Imagen>
+		</Persona>
+		<Persona Nombre ="T6">
+			<Nombre>Angel</Nombre>
+			<Correo>angel@gmail.com</Correo>
+			<Cel>22-99-66-85-95</Cel>
+			<Imagen>img/avatar6.svg</Imagen>
+		</Persona>
+	</Equipo>
 </Datos>
